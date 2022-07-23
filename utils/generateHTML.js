@@ -1,14 +1,13 @@
 
 
 
+managerCard()
+
+engineerCard()
+
+internCard()
 
 
 
 
-
-
-
-
-
-
-module.exports = generateHTML;
+// module.exports = generateHTML;
